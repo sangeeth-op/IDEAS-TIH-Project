@@ -87,10 +87,3 @@ Here's a more detailed example workflow:
 
 Contributions to this repository are welcome.  Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## Pre-Proccessed
-![Image](https://github.com/user-attachments/assets/acc2e920-375f-40c8-8f62-be87c102739a)
-
-## Proccessed Image
-![Image](https://github.com/user-attachments/assets/d078854c-1e1b-4320-b691-976bac94c461)
-
-<img src="https://github.com/user-attachments/assets/d078854c-1e1b-4320-b691-976bac94c46" alt="Fiji" width="200"/>
