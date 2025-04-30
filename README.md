@@ -69,7 +69,7 @@ This project provides a structured approach for annotating pathological images u
 
 | Input Image | Annotated Image |
 |-------------|-----------------|
-| ![H&E Image]![Image](https://github.com/user-attachments/assets/8576c1f3-b665-4c1d-890d-37bfdf60ccd2) | ![Annotated](sample_output.jpg) |
+| ![H&E Image]![Image](https://github.com/user-attachments/assets/8576c1f3-b665-4c1d-890d-37bfdf60ccd2) | ![Annotated]![Image](https://github.com/user-attachments/assets/6017018d-7f1e-4044-9205-ed963cc0b283) |
 
 ---
 
