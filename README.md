@@ -79,6 +79,6 @@ This project is open-source under the MIT License.
 
 ---
 
-## 🙋‍♀️ Contributions
-
-Contributions, suggestions, and feedback are welcome! Please open an issue or submit a pull request.
+## 🙋‍♀️ References
+- [Grand Challenge](https://camelyon16.grand-challenge.org/)
+- [Singel Cell Portal](https://singlecell.broadinstitute.org/)
