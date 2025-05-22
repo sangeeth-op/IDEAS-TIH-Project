@@ -2,14 +2,6 @@
 
 This project provides a structured approach for annotating pathological images using **QuPath** and **Fiji (ImageJ)**. These tools are widely used in digital pathology for tasks such as cell segmentation, region annotation, and biomarker quantification.
 
-## 🙏 Acknowledgement
-
-I would like to express my heartfelt gratitude to my mentor, **Sujoy Biswas Sir**, for his invaluable guidance, constant encouragement, and insightful suggestions throughout the duration of this internship. His mentorship has played a significant role in shaping my understanding of digital pathology and image annotation. 🧠🔬
-
-I also extend my sincere thanks to **IDEAS – Institute of Data Engineering, Analytics and Science Foundation, ISI Kolkata**, for providing me with this wonderful opportunity to work on a meaningful and enriching project. The support and resources provided by **IDEAS TIH** were instrumental in the successful completion of this work. 💻📊
-
-**📄 Report Submitted to:**  
-*IDEAS – Institute of Data Engineering, Analytics and Science Foundation, ISI Kolkata*
 
 
 ---
